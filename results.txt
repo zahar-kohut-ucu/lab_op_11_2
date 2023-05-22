@@ -1,0 +1,5 @@
+Time of finding 10000 words in different data structures:
+1) index(): 17.281123161315918s
+2) sorted BST: 95.45632004737854s
+3) shuffled BST: 0.10801267623901367s
+4) balanced BST: 0.02602386474609375s
